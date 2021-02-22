@@ -1,0 +1,21 @@
+{
+  "name": "pdv-api",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "author": "Pablo R. Quadrado <dev.pabloquadrado@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "knex": "^0.21.17",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
