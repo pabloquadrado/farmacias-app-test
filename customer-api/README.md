@@ -38,7 +38,7 @@
 
 ```json
 {
-    "payment_method": "PIX", // Valores válidos: PIX ou CREDIT_CARD
+    "payment_method": "PIX",
     "pix_key": 123,
     "card_holder_name": "Fulano",
     "card_number": "1234123412341234",
